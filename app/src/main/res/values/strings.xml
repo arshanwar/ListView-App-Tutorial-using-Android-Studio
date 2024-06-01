@@ -1,18 +1,24 @@
 <resources>
     <string name="app_name">List App</string>
     <string-array name="items">
-        <item>peach</item>
-        <item>tomato</item>
-        <item>watermelon</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Grapes</item>
+        <item>Mango</item>
     </string-array>
     <string-array name="prices">
-        <item>Rs 20</item>
-        <item>Rs 30</item>
-        <item>Rs 50</item>
+        <item>$1.99</item>
+        <item>$0.99</item>
+        <item>$2.49</item>
+        <item>$3.99</item>
+        <item>$1.49</item>
     </string-array>
     <string-array name="desc">
-        <item>fresh peaches</item>
-        <item>fresh tomato</item>
-        <item>fresh watermelons</item>
+        <item>Fresh, crisp apples</item>
+        <item>Ripe, sweet bananas</item>
+        <item>Juicy, tangy oranges</item>
+        <item>Plump, seedless grapes</item>
+        <item>Tropical, aromatic mangoes</item>
     </string-array>
 </resources>
